@@ -38,12 +38,19 @@ cd TradingBot-MLflow
 # Directory Structure    
 TradingBot-MLflow/
 ├── data/                 # Directory to store financial data
+
 ├── finance.py            # Module for financial data handling and feature engineering
+
 ├── tradingbot.py         # TradingBot class and related functions
+
 ├── backtesting.py        # Backtesting functions and classes
+
 ├── train.py              # Main script for training the trading bot
+
 ├── backtest.py           # Script for backtesting the trading bot
+
 ├── requirements.txt      # Required Python packages
+
 └── README.md             # Project description and usage instructions
 
 # Contributing
