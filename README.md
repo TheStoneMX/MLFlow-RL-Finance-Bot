@@ -42,12 +42,7 @@ TradingBot-MLflow/
 ├── finance.py            # Module for financial data handling and feature engineering
 
 ├── tradingbot.py         # TradingBot class and related functions
-
-├── backtesting.py        # Backtesting functions and classes
-
 ├── train.py              # Main script for training the trading bot
-
-├── backtest.py           # Script for backtesting the trading bot
 
 ├── requirements.txt      # Required Python packages
 
